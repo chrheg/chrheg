@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
----
 <!---
 ![Chrheg's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrheg&show_icons=true&theme=dark&count_private=true)
 --->
