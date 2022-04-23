@@ -6,7 +6,7 @@
 
 ---
 
-![Chrheg's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrheg&show_icons=true)
+![Chrheg's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrheg&show_icons=true&theme=dark&count_private=true)
 
 <!---
 chrheg/chrheg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
